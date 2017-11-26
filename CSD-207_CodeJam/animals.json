@@ -1,0 +1,45 @@
+[
+	{
+		"name" : "Lion",
+		"id" : "001",
+		"cage_no" : 1,
+		"consumables" : "meat",
+		"health" : "Healthy",
+		"status" : "Resting",
+		"eating_frequency" : 6,
+		"path_to_file" : "/home/raman/Desktop/CSD-207_CodeJam/images/lion.jpg"
+	},
+
+	{
+		"name" : "Zebra",
+		"id" : "002",
+		"cage_no" : 2,
+		"consumables" : "grass",
+		"health" : "Healthy",
+		"status" : "Moving",
+		"eating_frequency" : 8,
+		"path_to_file" : "/home/raman/Desktop/CSD-207_CodeJam/images/zebra.jpg"
+	},
+
+	{
+		"name" : "Elephant",
+		"id" : "003",
+		"cage_no" : 3,
+		"consumables" : "grass",
+		"health" : "Healthy",
+		"status" : "Resting",
+		"eating_frequency" : 10,
+		"path_to_file" : "/home/raman/Desktop/CSD-207_CodeJam/images/elephant.jpg"
+	},
+
+	{
+		"name" : "Giraffe",
+		"id" : "004",
+		"cage_no" : 4,
+		"consumables" : "meat",
+		"health" : "Healthy",
+		"status" : "Moving",
+		"eating_frequency" : 7,
+		"path_to_file" : "/home/raman/Desktop/CSD-207_CodeJam/images/giraffe.jpg"
+	}
+]
